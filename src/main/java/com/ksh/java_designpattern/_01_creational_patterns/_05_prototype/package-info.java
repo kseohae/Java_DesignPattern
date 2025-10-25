@@ -1,0 +1,1 @@
+package com.ksh.java_designpattern._01_creational_patterns._05_prototype;
