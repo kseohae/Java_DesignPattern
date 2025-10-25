@@ -20,7 +20,7 @@ public class App {
         // 이미만든 githubIssue.clone()하여 복제하여 사용하고 싶다.
 
         // GithubIssue clone = githubIssue.clone();
-        // 1) clone == githubIssue : 다른 인스턴스가 생성됬으므로 같지 않음 (false)
+        // 1) clone == githubIssue : 다른 인스턴스가 생성됐으므로 같지 않음 (false)
         // 2) clone.equals(githubIssue) : 그 안의 데이터는 같다 (true)
         // 3) clone.getClass == githubIssue.getClass : Type 도 같다. (true)
     }
